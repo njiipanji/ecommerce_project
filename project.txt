@@ -1,0 +1,40 @@
+++Tabel Penjual :
+- username
+- password
+- penjual
+- nama toko
+- alamat toko
+- no hp toko
+
+++Tabel Produk :
+- id produk
+- username
+- nama produk
+- deskripsi produk
+- harga produk
+
+Tabel Kategori :
+- id produk
+- kategori
+
+Tabel Gambar :
+- id produk
+- foto
+
+++Tabel Komentar :
+- id komentar
+- waktu komentar
+- id komentar
+- id produk
+- nama komentator
+- komentar
+
+++Tabel Transaksi :
+- id transaksi
+- waktu transaksi
+- nama pembeli
+- no hp pembeli
+- email pembeli
+- id produk
+- harga transaksi
+- jumlah pembelian
